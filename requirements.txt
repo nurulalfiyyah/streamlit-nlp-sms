@@ -4,6 +4,6 @@ matplotlib
 nltk
 pickle
 streamlit
-pip
+pip==23.3.2
 scikit-learn
 sklearn
